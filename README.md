@@ -1,2 +1,1 @@
-# Git-mini-2
-# Git-mini-2
+# devops-project-1
